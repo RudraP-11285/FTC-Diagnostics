@@ -43,3 +43,5 @@ How To Set It Up:
 Made by Rudra P.
 
 Team 11285: PATENT PENDING
+
+If you have suggestions or bugs, please send them to me at rudra.patentpending@gmail.com
