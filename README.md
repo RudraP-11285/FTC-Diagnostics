@@ -1,7 +1,7 @@
 # FTC-Diagnostics
 This tool makes it easy for FTC teams to test all motors and servos before a match, after a rebuild, or during debugging. It checks wiring, configuration, and mechanical movement in just a few minutes.
 
-NOTE THAT THIS WILL RUN SERVOS AND MOTORS WITHOUT LIMIT. IF YOUR ROBOT HAS STRICT HARDWARE LIMITS, PLEASE WAIT FOR FURTHER UPDATES BEFORE TRYING THIS!
+NOTE THAT THIS WILL RUN SERVOS AND MOTORS WITHOUT LIMIT (about 500 ticks). IF YOUR ROBOT HAS STRICT HARDWARE LIMITS, PLEASE WAIT FOR FURTHER UPDATES BEFORE TRYING THIS!
 
 What It Does:
 
